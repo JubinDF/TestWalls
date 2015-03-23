@@ -1,0 +1,36 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_1.jpg",
+			"name": "Abstract 1"
+		},
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_2.jpg",
+			"name": "Abstract 2"
+		},
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_3.jpg",
+			"name": "Abstract 3"
+		},
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_4.jpg",
+			"name": "Abstract 4"
+		},
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_5.jpg",
+			"name": "Abstract 5"
+		}
+		{
+			"author": "Author 1",
+			"url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Abstract/abstract_6.jpg",
+			"name": "Abstract 6"
+		}
+		 
+	]
+}
