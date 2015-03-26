@@ -1,0 +1,36 @@
+{
+"wallpapers":
+        [
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_1.jpg",
+                        "name": "lollipop_1"
+                },
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_2.jpg",
+                        "name": "lollipop_2"
+                },
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_3.jpg",
+                        "name": "lollipop_3"
+                },
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_4.jpg",
+                        "name": "lollipop_4"
+                },
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_5.jpg",
+                        "name": "lollipop_5"
+                },
+                {
+                        "author": "Wallpapers",
+                        "url": "https://raw.githubusercontent.com/JubinDF/TestWalls/master/Lollipop/lollipop_6.jpg",
+                        "name": "lollipop_6"
+                }
+
+        ]
+}
